@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEESALoginFinal", "SEESALoginFinal\SEESALoginFinal.csproj", "{DC774B62-41D1-4F21-9341-B5AB36FCE5BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC774B62-41D1-4F21-9341-B5AB36FCE5BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC774B62-41D1-4F21-9341-B5AB36FCE5BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC774B62-41D1-4F21-9341-B5AB36FCE5BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC774B62-41D1-4F21-9341-B5AB36FCE5BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1BE1FC3-75E2-49D6-B03A-0D0110A49034}
+	EndGlobalSection
+EndGlobal
